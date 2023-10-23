@@ -1,0 +1,31 @@
+<?php
+echo 20 * 5;
+echo "<br>";
+echo 20 + 5;
+echo "<br>";
+echo 20 / 5;
+echo "<br>";
+echo 20 - 5;
+echo "<br>";
+echo abs(-30);
+echo "<br>";
+echo pow(5, 3);
+echo "<br>";
+echo sqrt(144);
+echo "<br>";
+echo round(3.2);
+echo "<br>";
+echo floor(3.8);
+echo "<br>";
+echo ceil(3.8);
+echo "<br>";
+echo 3 % 10;
+echo "<br>";
+$num = 5;
+$num++;
+echo $num;
+echo "<br>";
+echo max(3., 10);
+echo "<br>";
+echo min(3, 10);
+?>
